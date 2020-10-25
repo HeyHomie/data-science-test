@@ -1,7 +1,7 @@
 # Data Science Homie
 
-Responder el examen usando la siguiente estructura de código
+Estructura para responder la prueba para la vacante Data Scientist Homie
 
-Reactivos 1, 2 y 3 usando el archivo getting_and_cleaning_data.ipynb (archivo de Jupyter Notebook)
+
 
 
